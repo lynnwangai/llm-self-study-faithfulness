@@ -1,0 +1,8 @@
+data_pilot/
+mayne/
+*.sqlite
+*.sqlite-*
+.env
+__pycache__/
+.DS_Store
+._*

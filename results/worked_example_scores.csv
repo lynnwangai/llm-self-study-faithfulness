@@ -1,0 +1,17 @@
+predictor,cond,correct,of,flip_correct,stay_correct
+pred_gptoss,0,4,8,1,3
+pred_gptoss,A0,6,8,1,5
+pred_gptoss,B,5,8,0,5
+pred_gptoss,C,5,8,1,4
+pred_gptoss,D,6,8,1,5
+pred_gptoss,P,5,8,0,5
+pred_gptoss,R,7,8,2,5
+pred_gptoss,noexp,5,8,2,3
+pred_qwen32,0,5,8,1,4
+pred_qwen32,A0,6,8,1,5
+pred_qwen32,B,5,8,0,5
+pred_qwen32,C,5,8,0,5
+pred_qwen32,D,6,8,1,5
+pred_qwen32,P,6,8,1,5
+pred_qwen32,R,6,8,1,5
+pred_qwen32,noexp,4,8,2,2
